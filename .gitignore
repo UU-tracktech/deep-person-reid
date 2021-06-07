@@ -141,3 +141,4 @@ debug*
 
 # Weight files
 torchreid/weights/
+weights/
